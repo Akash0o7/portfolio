@@ -1,0 +1,1004 @@
+.about-me {
+  position: absolute;
+  top: 48px;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.male-user-icon {
+  position: absolute;
+  top: 0;
+  left: 2px;
+  width: 40px;
+  height: 59px;
+  object-fit: cover;
+  z-index: 1;
+}
+.group-165-2,
+.objects-icon {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  width: 447px;
+  height: 941.5px;
+  object-fit: contain;
+}
+.group-165-2 {
+  top: 486px;
+  left: 228px;
+  width: 225px;
+  height: 221px;
+  object-fit: cover;
+  z-index: 1;
+}
+.frame-group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-crimson-100);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.portfolio-logo-2 {
+  position: absolute;
+  width: calc(100% - 24px);
+  top: 75px;
+  right: 12px;
+  left: 12px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 67px;
+  z-index: 2;
+}
+.frame-group1 {
+  position: absolute;
+  top: 0;
+  left: 129px;
+  background-color: var(--color-crimson-100);
+  width: 88px;
+  height: 820px;
+  z-index: 1;
+}
+.one-piece-strawhat-render-one-icon {
+  position: absolute;
+  top: 754px;
+  left: 295px;
+  width: 161.3px;
+  height: 106.9px;
+  object-fit: contain;
+  z-index: 1;
+}
+.portfolio-logo-frame-child {
+  position: absolute;
+  top: 473px;
+  left: 32px;
+  width: 299px;
+  height: 391.9px;
+  z-index: 2;
+}
+.education-icon,
+.view-quilt-icon {
+  position: absolute;
+  top: 82px;
+  left: 246px;
+  width: 40px;
+  height: 60px;
+  object-fit: cover;
+  z-index: 2;
+}
+.view-quilt-icon {
+  top: 84px;
+  left: 310px;
+  height: 59px;
+}
+.portfolio-logo-frame {
+  position: absolute;
+  right: -354px;
+  bottom: -723px;
+  width: 456px;
+  height: 865px;
+}
+.about-me-parent {
+  height: 60px;
+  width: 46px;
+  position: relative;
+  z-index: 1;
+}
+.education,
+.projects {
+  position: relative;
+  letter-spacing: 0.07em;
+  z-index: 1;
+}
+.contact-icon {
+  width: 40px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.contact {
+  position: relative;
+  letter-spacing: 0.07em;
+  white-space: nowrap;
+  margin-top: -11px;
+}
+.contact-parent,
+.education-projects-text {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.contact-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  z-index: 1;
+}
+.education-projects-text {
+  height: 61px;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0 1px 0 0;
+  box-sizing: border-box;
+  gap: 0 19px;
+}
+.uiux1 {
+  letter-spacing: 0.1em;
+}
+.span {
+  letter-spacing: 0.07em;
+}
+.uiux {
+  margin: 0;
+}
+.designer1 {
+  letter-spacing: 0.07em;
+}
+.designer {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.uiux-designer {
+  position: relative;
+  z-index: 1;
+}
+.web1 {
+  letter-spacing: 0.1em;
+}
+.span1 {
+  letter-spacing: 0.07em;
+}
+.web {
+  margin: 0;
+}
+.developer1 {
+  letter-spacing: 0.07em;
+}
+.developer {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.web-developer {
+  position: relative;
+  z-index: 1;
+}
+.ui-x-designer-frame {
+  flex-direction: column;
+  gap: 22px 0;
+}
+.frame-group2,
+.projects-frame,
+.ui-x-designer-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.projects-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-6xs);
+  font-size: var(--font-size-21xl);
+  color: var(--color-dimgray);
+  font-family: var(--font-vfc-fantomen-press);
+}
+.frame-group2 {
+  width: 175px;
+  flex-direction: column;
+  gap: 92px 0;
+}
+.about-me-text,
+.frame-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.about-me-text {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.frame-group {
+  width: 406px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl) 329px var(--padding-7xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-5xs);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.contact-rectangle {
+  width: 433px;
+  height: 4px;
+  position: absolute;
+  margin: 0 !important;
+  top: 1282px;
+  left: 0;
+  border-top: 4px solid var(--color-crimson-100);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.rectangle-frame {
+  height: 430px;
+  width: 65px;
+  position: relative;
+  background-color: var(--color-crimson-100);
+  transform: rotate(90deg);
+}
+.rectangle-frame-wrapper {
+  align-self: stretch;
+  height: 59px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-sm);
+  box-sizing: border-box;
+}
+.about-me1 {
+  width: 180px;
+  height: 31px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.member-of-core,
+.member-of-team,
+.pursuing-computer-science,
+.studying-at-sdm {
+  margin-bottom: 27px;
+}
+.studying-at-sdm-college-of-eng {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-lgi);
+}
+.studying-at-sdm-container {
+  height: 403px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  max-width: 100%;
+}
+.icon {
+  height: 172px;
+  width: 75px;
+  position: absolute;
+  margin: 0 !important;
+  right: -16px;
+  bottom: 73px;
+  object-fit: contain;
+  z-index: 1;
+}
+.studying-at-sdm-college-of-eng-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.education1 {
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  z-index: 1;
+}
+.educationframe,
+.frame-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.educationframe {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-mid) 0 0;
+  margin-top: -31px;
+  font-size: var(--font-size-5xl);
+}
+.frame-parent {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  max-width: 100%;
+}
+.education-text {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  font-size: 14px;
+}
+.about-me-text-wrapper,
+.about-me-text1,
+.education-text {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.about-me-text1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 25px 0;
+}
+.about-me-text-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 16px 0 var(--padding-6xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-5xl);
+}
+.frame-child {
+  width: 378px;
+  height: 350px;
+  position: relative;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray);
+  border: 2px solid var(--color-crimson-100);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.ave-maria-high,
+.ave-maria-high-school-1 {
+  position: relative;
+  max-width: 100%;
+  z-index: 1;
+}
+.ave-maria-high-school-1 {
+  align-self: stretch;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.ave-maria-high {
+  height: 50.1px;
+  flex: 1;
+  letter-spacing: 0.07em;
+  display: inline-block;
+}
+.s-s-l-c-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi) 0 var(--padding-mid);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.sslc-9728 {
+  height: 44.4px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-parent,
+.sslc-9728-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.sslc-9728-wrapper {
+  width: 232px;
+  flex-direction: row;
+  padding: 0 var(--padding-mid);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  color: var(--color-khaki);
+}
+.rectangle-parent {
+  flex: 1;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray);
+  border: 2px solid var(--color-crimson-100);
+  flex-direction: column;
+  padding: var(--padding-mini) var(--padding-smi) var(--padding-6xs)
+    var(--padding-4xs);
+  gap: var(--gap-lgi);
+}
+.frame-item,
+.group-frame,
+.rectangle-parent {
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.group-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xl) 0 var(--padding-8xl);
+}
+.frame-item {
+  width: 378px;
+  height: 350px;
+  position: relative;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray);
+  border: 2px solid var(--color-crimson-100);
+  display: none;
+}
+.ave-maria-high-school-2 {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.mes-chaitanya-pu {
+  height: 50.1px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.mes-chaitanya-pu-college-s-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs) 0 var(--padding-mid);
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.puc-989 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.07em;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.group-frame1,
+.puc-989-wrapper,
+.rectangle-group {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.puc-989-wrapper {
+  width: 203px;
+  flex-direction: row;
+  padding: 0 var(--padding-mid);
+  font-size: var(--font-size-xl);
+  color: var(--color-khaki);
+}
+.group-frame1,
+.rectangle-group {
+  max-width: 100%;
+}
+.rectangle-group {
+  flex: 1;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray);
+  border: 2px solid var(--color-crimson-100);
+  flex-direction: column;
+  padding: var(--padding-mini) var(--padding-xs) 30px var(--padding-sm);
+  gap: var(--gap-lgi);
+}
+.group-frame1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-6xl) 0 var(--padding-8xl);
+}
+.sdm-college-of {
+  height: 50.3px;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.07em;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.sdmcollegetext {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xl) 0 var(--padding-lg);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.cgpa-871 {
+  width: 370px;
+  position: relative;
+  letter-spacing: 0.07em;
+  color: var(--color-khaki);
+  white-space: pre-wrap;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.frame-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray);
+  border: 2px solid var(--color-crimson-100);
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+}
+.ave-maria-high-school-3 {
+  position: absolute;
+  width: calc(100% - 25.9px);
+  top: 15.8px;
+  right: 13.4px;
+  left: 12.5px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 195.2px;
+  object-fit: cover;
+  z-index: 1;
+}
+.rectangle-container {
+  width: 378px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+.aboutmeframe {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 225px 0 var(--padding-lg);
+  box-sizing: border-box;
+  position: relative;
+  gap: 36px 0;
+  max-width: 100%;
+}
+.aboutmeframe-wrapper,
+.ave-maria-high-school-sirs-fra {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.aboutmeframe-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-sm) 0 var(--padding-8xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+}
+.ave-maria-high-school-sirs-fra {
+  flex-direction: column;
+  align-items: center;
+  gap: 34px 0;
+  text-align: left;
+  font-size: var(--font-size-3xl);
+  color: var(--color-white);
+  font-family: var(--font-audiowide);
+}
+.skillsframe {
+  align-self: stretch;
+  height: 4px;
+  position: relative;
+  border-top: 4px solid var(--color-crimson-100);
+  box-sizing: border-box;
+}
+.projects1 {
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+}
+.prk-2-icon {
+  align-self: stretch;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.educationprojectsframe {
+  width: 395px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: 36px 0;
+  max-width: 100%;
+}
+.skillsframe-parent,
+.studyingatsdmtext {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.skillsframe-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-6xs);
+  gap: 39px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-audiowide);
+}
+.studyingatsdmtext {
+  height: 4px;
+  position: relative;
+  border-top: 4px solid var(--color-crimson-100);
+}
+.skills {
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+}
+.c-programming-icon,
+.figma-icon,
+.html-6-icon,
+.java-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 75px;
+  height: 100px;
+  object-fit: cover;
+}
+.figma-icon,
+.html-6-icon,
+.java-icon {
+  left: 97px;
+}
+.figma-icon,
+.html-6-icon {
+  top: 8px;
+  left: 196px;
+  height: 88px;
+}
+.html-6-icon {
+  top: 122px;
+  height: 100px;
+}
+.adobe-illustrator-icon,
+.adobe-photoshop-icon,
+.bootstrap-icon,
+.css3-icon {
+  position: absolute;
+  top: 119px;
+  left: 0;
+  width: 75px;
+  height: 100px;
+  object-fit: cover;
+}
+.adobe-illustrator-icon,
+.bootstrap-icon,
+.css3-icon {
+  left: 97px;
+}
+.bootstrap-icon,
+.css3-icon {
+  top: 227px;
+  left: 0;
+}
+.bootstrap-icon {
+  left: 97px;
+}
+.javascript-icon,
+.sql-icon {
+  height: 100px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.javascript-icon {
+  flex: 1;
+  position: relative;
+}
+.sql-icon {
+  width: calc(100% - 5px);
+  position: absolute;
+  margin: 0 !important;
+  right: 2px;
+  bottom: -99px;
+  left: 3px;
+  z-index: 1;
+}
+.javascriptsql {
+  position: absolute;
+  top: 227px;
+  left: 196.5px;
+  width: 75px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nodejs-icon,
+.php-icon {
+  position: absolute;
+  top: 325px;
+  left: 0;
+  width: 75px;
+  height: 100px;
+  object-fit: cover;
+  z-index: 1;
+}
+.php-icon {
+  top: 327px;
+  left: 99px;
+}
+.skillscontainer {
+  align-self: stretch;
+  height: 427px;
+  position: relative;
+}
+.edtext {
+  width: 311px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: 36px 0;
+}
+.projectsframe {
+  align-self: stretch;
+  height: 4px;
+  position: relative;
+  border-top: 4px solid var(--color-crimson-100);
+  box-sizing: border-box;
+}
+.javaframe {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 29px 0;
+}
+.contact-me {
+  height: 31px;
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  display: inline-block;
+}
+.email-icon,
+.phone-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 30px;
+  height: 50px;
+  object-fit: cover;
+}
+.phone-icon {
+  top: 47px;
+  z-index: 1;
+}
+.copyrightrectangle {
+  height: 97px;
+  width: 30px;
+  position: relative;
+}
+.sirsiakashgmailcom,
+.sirsiakashgmailcomtext {
+  position: relative;
+  letter-spacing: 0.07em;
+  white-space: nowrap;
+}
+.sirsiakashgmailcomtext {
+  height: 25px;
+  display: inline-block;
+}
+.akashotext,
+.githubrectangle {
+  display: flex;
+  justify-content: flex-start;
+}
+.akashotext {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 22px 0;
+}
+.githubrectangle {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 var(--padding-8xs) 0 var(--padding-9xs);
+  gap: 0 15px;
+}
+.instagram-icon {
+  height: 50px;
+  width: 30px;
+  position: relative;
+  object-fit: cover;
+}
+.akash-desai-7 {
+  position: relative;
+  letter-spacing: 0.07em;
+}
+.akashdecsaitext,
+.instagramlabel {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.akashdecsaitext {
+  align-items: center;
+  gap: 0 14px;
+}
+.instagramlabel {
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.github-icon {
+  height: 50px;
+  width: 30px;
+  position: relative;
+  object-fit: cover;
+}
+.akash0o7 {
+  position: relative;
+  letter-spacing: 0.07em;
+}
+.frame-wrapper,
+.github-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.github-parent {
+  align-items: center;
+  gap: 0 13px;
+}
+.frame-wrapper {
+  align-items: flex-start;
+  padding: 0 var(--padding-9xs);
+}
+.copyright-icon {
+  height: 50px;
+  width: 28px;
+  position: relative;
+  object-fit: cover;
+}
+.designed-and-developed {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.07em;
+}
+.copyright-box,
+.frame-container {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.copyright-box {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 11px;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-200);
+}
+.frame-container {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 22px 0;
+}
+.contactmeframe,
+.instagram-rectangle,
+.instagramrectangle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.instagramrectangle {
+  align-self: stretch;
+  gap: 5px 0;
+  font-size: var(--font-size-xl);
+}
+.contactmeframe,
+.instagram-rectangle {
+  max-width: 100%;
+}
+.contactmeframe {
+  width: 348px;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  gap: 32px 0;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-audiowide);
+}
+.instagram-rectangle {
+  width: 431px;
+  gap: 51px 0;
+}
+.uixdesignerwebdeveloperframe {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-audiowide);
+}
+.portfolio-mobile {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 65px 0 82px;
+  box-sizing: border-box;
+  gap: 64px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 450px) {
+  .about-me-text {
+    flex-wrap: wrap;
+  }
+  .aboutmeframe,
+  .edtext,
+  .educationprojectsframe {
+    gap: 36px 0;
+  }
+  .contactmeframe {
+    gap: 32px 0;
+  }
+}

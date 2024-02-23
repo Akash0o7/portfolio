@@ -1,0 +1,710 @@
+.vector-icon,
+.vector-icon1 {
+  position: absolute;
+  height: 10.75%;
+  width: 41.73%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon {
+  top: 0;
+  right: 0;
+  bottom: 89.25%;
+  left: 58.27%;
+  object-fit: contain;
+}
+.vector-icon1 {
+  top: 6.63%;
+  right: 58.27%;
+  bottom: 82.62%;
+  left: 0;
+}
+.line-68-stroke {
+  position: absolute;
+  top: 1265px;
+  left: 0;
+  width: 1366px;
+  height: 4px;
+}
+.porfolio-2024-child,
+.porfolio-2024-item {
+  position: absolute;
+  background-color: var(--color-crimson-100);
+}
+.porfolio-2024-child {
+  height: 37.09%;
+  width: 5.34%;
+  top: 17.38%;
+  right: 94.66%;
+  bottom: 45.53%;
+  left: 0;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.porfolio-2024-item {
+  height: 17.57%;
+  width: 8.27%;
+  top: -0.19%;
+  right: 57.25%;
+  bottom: 82.62%;
+  left: 34.48%;
+}
+.group-165-1,
+.porfolio-2024-inner,
+.portfolio-logo-2 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-165-1 {
+  height: 9.04%;
+  width: 24.89%;
+  top: 5.38%;
+  right: 29.28%;
+  bottom: 85.58%;
+  left: 45.83%;
+  object-fit: cover;
+}
+.porfolio-2024-inner,
+.portfolio-logo-2 {
+  height: 10.76%;
+  width: 23.43%;
+  top: 6.63%;
+  right: 49.05%;
+  bottom: 82.61%;
+  left: 27.53%;
+}
+.portfolio-logo-2 {
+  height: 2.2%;
+  width: 5.49%;
+  top: 0.52%;
+  right: 58.64%;
+  bottom: 97.28%;
+  left: 35.87%;
+}
+.education {
+  position: absolute;
+  top: 76.39%;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.education-icon {
+  position: absolute;
+  height: 83.33%;
+  width: 58.82%;
+  top: 0;
+  right: 20.59%;
+  bottom: 16.67%;
+  left: 20.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.education-parent {
+  position: absolute;
+  height: 1.95%;
+  width: 4.98%;
+  top: 0.73%;
+  right: 32.5%;
+  bottom: 97.31%;
+  left: 62.52%;
+  font-family: var(--font-poppins);
+}
+.contact {
+  position: absolute;
+  top: 76.06%;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.contact-icon {
+  position: absolute;
+  height: 84.51%;
+  width: 68.97%;
+  top: 0;
+  right: 15.52%;
+  bottom: 15.49%;
+  left: 15.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contact-parent {
+  position: absolute;
+  height: 1.93%;
+  width: 4.25%;
+  top: 0.76%;
+  right: 10.1%;
+  bottom: 97.31%;
+  left: 85.65%;
+  font-family: var(--font-poppins);
+}
+.projects {
+  color: white;
+  position: absolute;
+  top: 76.06%;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.view-quilt-icon {
+  position: absolute;
+  height: 83.1%;
+  width: 66.67%;
+  top: 0;
+  right: 16.67%;
+  bottom: 16.9%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.projects-parent {
+  position: absolute;
+  height: 1.93%;
+  width: 4.39%;
+  top: 0.76%;
+  right: 21.23%;
+  bottom: 97.31%;
+  left: 74.38%;
+  font-family: var(--font-poppins);
+}
+.about-me {
+  position: absolute;
+  top: 76.06%;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.male-user-icon {
+  position: absolute;
+  height: 83.1%;
+  width: 66.67%;
+  top: 0;
+  right: 16.67%;
+  bottom: 16.9%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.about-me-parent {
+  position: absolute;
+  height: 1.93%;
+  width: 5%;
+  top: 0.76%;
+  right: 44.36%;
+  bottom: 97.31%;
+  left: 51.24%;
+  font-family: var(--font-poppins);
+}
+.group-child {
+  position: absolute;
+  height: 103.51%;
+  width: 102.6%;
+  top: -1.75%;
+  right: -1.3%;
+  bottom: -1.75%;
+  left: -1.3%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  backdrop-filter: blur(8px);
+  border: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.uiux1 {
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.1em;
+}
+.span {
+  letter-spacing: 0.07em;
+}
+.uiux {
+  margin: 0;
+}
+.designer {
+  margin: 0;
+  letter-spacing: 0.07em;
+}
+.uiux-designer {
+  position: absolute;
+  height: 75.18%;
+  width: 82.27%;
+  top: 9.04%;
+  left: 10.71%;
+  display: inline-block;
+}
+.rectangle-parent {
+  position: absolute;
+  height: 3.1%;
+  width: 11.27%;
+  top: 5%;
+  right: 76.5%;
+  bottom: 91.91%;
+  left: 12.23%;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-vfc-fantomen-press);
+}
+.group-item {
+  position: absolute;
+  height: 103.51%;
+  width: 102.6%;
+  top: -1.75%;
+  right: -1.3%;
+  bottom: -1.75%;
+  left: -1.3%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gainsboro);
+  backdrop-filter: blur(8px);
+  border: 2px solid var(--color-gray-100);
+  box-sizing: border-box;
+}
+.web1 {
+  font-size: var(--font-size-21xl);
+  letter-spacing: 0.1em;
+}
+.span1 {
+  letter-spacing: 0.07em;
+}
+.web {
+  margin: 0;
+}
+.developer {
+  margin: 0;
+  letter-spacing: 0.07em;
+}
+.web-developer {
+  position: absolute;
+  height: 75.44%;
+  width: 92.86%;
+  top: 9.65%;
+  left: 4.55%;
+  display: inline-block;
+}
+.rectangle-group {
+  position: absolute;
+  height: 3.1%;
+  width: 11.27%;
+  top: 9.1%;
+  right: 76.5%;
+  bottom: 87.81%;
+  left: 12.23%;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-vfc-fantomen-press);
+}
+.rectangle-div {
+  position: absolute;
+  height: 2.99%;
+  width: 1.46%;
+  top: 12.73%;
+  right: 17.13%;
+  bottom: 84.28%;
+  left: 81.41%;
+  background-color: var(--color-crimson-100);
+}
+.one-piece-strawhat-render-one-icon {
+  position: absolute;
+  height: 4.38%;
+  width: 17.82%;
+  top: 9.53%;
+  right: 9.19%;
+  bottom: 86.09%;
+  left: 72.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.about-me1 {
+  position: absolute;
+  top: 18.92%;
+  left: 14.64%;
+  font-size: var(--font-size-25xl);
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+}
+.member-of-team,
+.pursuing-computer-science,
+.studying-at-sdm {
+  color: white;
+  margin-bottom: 60px;
+}
+.studying-at-sdm-college-of-eng {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 37px;
+}
+.studying-at-sdm-container {
+  position: absolute;
+  height: 10.94%;
+  width: 85.36%;
+  top: 22.02%;
+  left: 14.64%;
+  font-size: 28px;
+  letter-spacing: 0.07em;
+  display: inline-block;
+}
+.icon {
+  position: absolute;
+  height: 10.4%;
+  width: 12.23%;
+  top: 24.22%;
+  right: 0;
+  bottom: 65.38%;
+  left: 87.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.education1 {
+  position: absolute;
+  top: 1316px;
+  left: calc(50% - 160px);
+  font-size: var(--font-size-25xl);
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray);
+  border: 2px solid var(--color-crimson-100);
+  box-sizing: border-box;
+  width: 424px;
+  height: 398px;
+}
+.ave-maria-high,
+.sslc-9728 {
+  position: absolute;
+  left: 32px;
+  letter-spacing: 0.07em;
+}
+.ave-maria-high {
+  top: 263px;
+  display: inline-block;
+  width: 366px;
+  height: 57px;
+}
+.sslc-9728 {
+  top: 341px;
+  font-size: var(--font-size-xl);
+  color: var(--color-khaki);
+}
+.ave-maria-high-school-1 {
+  position: absolute;
+  top: 18px;
+  left: 13px;
+  width: 395px;
+  height: 222px;
+  object-fit: cover;
+}
+.group-child1,
+.rectangle-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 424px;
+  height: 398px;
+}
+.group-child1 {
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray);
+  border: 2px solid var(--color-crimson-100);
+  box-sizing: border-box;
+}
+.mes-chaitanya-pu,
+.puc-989 {
+  position: absolute;
+  left: 35px;
+  letter-spacing: 0.07em;
+}
+.mes-chaitanya-pu {
+  top: 263px;
+  display: inline-block;
+  width: 366px;
+  height: 57px;
+}
+.puc-989 {
+  top: 341px;
+  font-size: var(--font-size-xl);
+  color: var(--color-khaki);
+}
+.ave-maria-high-school-2 {
+  position: absolute;
+  top: 18px;
+  left: 16px;
+  width: 395px;
+  height: 222px;
+  object-fit: cover;
+}
+.group-child2,
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 438px;
+  width: 424px;
+  height: 398px;
+}
+.group-child2 {
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-darkslategray);
+  border: 2px solid var(--color-crimson-100);
+  box-sizing: border-box;
+}
+.cgpa-871,
+.sdm-college-of {
+  position: absolute;
+  left: 21px;
+  letter-spacing: 0.07em;
+}
+.sdm-college-of {
+  top: 257px;
+  display: inline-block;
+  width: 386px;
+  height: 57px;
+}
+.cgpa-871 {
+  top: 341px;
+  color: var(--color-khaki);
+  white-space: pre-wrap;
+}
+.ave-maria-high-school-3 {
+  position: absolute;
+  top: 18px;
+  left: 14px;
+  width: 395px;
+  height: 222px;
+  object-fit: cover;
+}
+.group-parent,
+.rectangle-parent1 {
+  position: absolute;
+  top: 0;
+  left: 874px;
+  width: 424px;
+  height: 398px;
+  font-size: var(--font-size-xl);
+}
+.group-parent {
+  top: 1440px;
+  left: 34px;
+  width: 1298px;
+  font-size: var(--font-size-3xl);
+}
+.projects1 {
+  color: white;
+  position: absolute;
+  top: 1952px;
+  left: calc(50% - 148px);
+  font-size: var(--font-size-25xl);
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+}
+.prk-2-icon {
+  position: absolute;
+  top: 2058px;
+  left: calc(50% - 468px);
+  width: 935px;
+  height: 433px;
+  object-fit: cover;
+}
+.line-70-stroke,
+.line-70-stroke1 {
+  position: absolute;
+  top: 2571px;
+  left: calc(50% - 683px);
+  width: 1366px;
+  height: 4px;
+}
+.line-70-stroke1 {
+  top: 3073px;
+  left: calc(50% - 687px);
+}
+.contact-me,
+.skills {
+  position: absolute;
+  top: 2655px;
+  left: calc(50% - 107px);
+  font-size: var(--font-size-29xl);
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+}
+.contact-me {
+  top: 3173px;
+  left: calc(50% - 195px);
+}
+.designed-and-developed,
+.sirsiakashgmailcom {
+  position: absolute;
+  top: 3303px;
+  left: 233px;
+  font-size: var(--font-size-13xl);
+  letter-spacing: 0.07em;
+}
+.designed-and-developed {
+  top: 3528px;
+  left: 350px;
+  color: var(--color-gray-200);
+}
+.akash-desai-7,
+.akash0o7,
+.div {
+  color: white;
+  position: absolute;
+  top: 3389px;
+  left: 233px;
+  font-size: var(--font-size-11xl);
+  letter-spacing: 0.07em;
+}
+.akash-desai-7,
+.akash0o7 {
+  top: 3304px;
+  left: 806px;
+  font-size: var(--font-size-13xl);
+}
+.akash0o7 {
+  top: 3385px;
+}
+.copyright-icon,
+.email-icon,
+.github-icon,
+.instagram-icon,
+.java-icon,
+.phone-icon {
+  position: absolute;
+  top: 3302px;
+  left: 741px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.copyright-icon,
+.email-icon,
+.github-icon,
+.java-icon,
+.phone-icon {
+  top: 3380px;
+}
+.copyright-icon,
+.email-icon,
+.java-icon,
+.phone-icon {
+  top: 3300px;
+  left: 163px;
+}
+.copyright-icon,
+.java-icon,
+.phone-icon {
+  top: 3380px;
+}
+.copyright-icon,
+.java-icon {
+  top: 3523px;
+  left: 278px;
+}
+.java-icon {
+  top: 2758px;
+  left: 313px;
+  width: 100px;
+  height: 100px;
+}
+.bootstrap-icon,
+.css3-icon,
+.figma-icon,
+.html-6-icon {
+  position: absolute;
+  top: 2766px;
+  left: 441px;
+  width: 88px;
+  height: 88px;
+  object-fit: cover;
+}
+.bootstrap-icon,
+.css3-icon,
+.html-6-icon {
+  left: 823px;
+  width: 100px;
+  height: 100px;
+}
+.bootstrap-icon,
+.css3-icon {
+  left: 959px;
+}
+.bootstrap-icon {
+  left: 1081px;
+}
+.adobe-illustrator-icon,
+.adobe-photoshop-icon,
+.c-programming-icon,
+.php-icon {
+  position: absolute;
+  top: 2760px;
+  left: 565px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.adobe-illustrator-icon,
+.c-programming-icon,
+.php-icon {
+  left: 693px;
+}
+.c-programming-icon,
+.php-icon {
+  top: 2762px;
+  left: 185px;
+}
+.php-icon {
+  top: 2921px;
+  left: 833px;
+}
+.porfolio-2024 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  height: 3683px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs);
+  color: var(--color-white);
+  font-family: var(--font-audiowide);
+}
+.js-icon {
+  position: absolute;
+  top: 2910px;
+  left: 565px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.node-icon {
+  position: absolute;
+  top: 2910px;
+  left: 430px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.sql-icon {
+  position: absolute;
+  top: 2910px;
+  left: 695px;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+/* .prk-2-icon{
+  position:absolute;
+  top: 1000px;
+  left: 20px;
+} */

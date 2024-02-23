@@ -1,0 +1,498 @@
+.portfolio-logo-3 {
+  position: absolute;
+  height: 1.66%;
+  width: 5.49%;
+  top: 0.14%;
+  right: 70.5%;
+  bottom: 98.2%;
+  left: 24.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.education4 {
+  position: absolute;
+  top: 76.39%;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.education-icon2 {
+  position: absolute;
+  height: 83.33%;
+  width: 58.82%;
+  top: 0;
+  right: 20.59%;
+  bottom: 16.67%;
+  left: 20.59%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.education-container {
+  position: absolute;
+  height: 1.47%;
+  width: 4.98%;
+  top: 0.31%;
+  right: 46.49%;
+  bottom: 98.22%;
+  left: 48.54%;
+  font-size: var(--font-size-2xs);
+}
+.contact2 {
+  position: absolute;
+  top: 76.06%;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.contact-icon2 {
+  position: absolute;
+  height: 84.51%;
+  width: 68.97%;
+  top: 0;
+  right: 15.52%;
+  bottom: 15.49%;
+  left: 15.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.contact-group {
+  position: absolute;
+  height: 1.45%;
+  width: 4.25%;
+  top: 0.33%;
+  right: 24.08%;
+  bottom: 98.22%;
+  left: 71.67%;
+  font-size: var(--font-size-2xs);
+}
+.projects4 {
+  position: absolute;
+  top: 76.06%;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.view-quilt-icon2 {
+  position: absolute;
+  height: 83.1%;
+  width: 66.67%;
+  top: 0;
+  right: 16.67%;
+  bottom: 16.9%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.projects-group {
+  position: absolute;
+  height: 1.45%;
+  width: 4.39%;
+  top: 0.33%;
+  right: 35.21%;
+  bottom: 98.22%;
+  left: 60.4%;
+  font-size: var(--font-size-2xs);
+}
+.about-me4 {
+  position: absolute;
+  top: 76.06%;
+  left: 0;
+  letter-spacing: 0.07em;
+}
+.male-user-icon2 {
+  position: absolute;
+  height: 83.1%;
+  width: 66.67%;
+  top: 0;
+  right: 16.67%;
+  bottom: 16.9%;
+  left: 16.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.about-me-group {
+  position: absolute;
+  height: 1.45%;
+  width: 4.5%;
+  top: 0.33%;
+  right: 58.35%;
+  bottom: 98.22%;
+  left: 37.26%;
+  font-size: var(--font-size-2xs);
+}
+.graphic-designing,
+.insignia24,
+.parkease {
+  position: absolute;
+  top: 2.91%;
+  left: 6.52%;
+  font-size: var(--font-size-11xl);
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  font-family: var(--font-audiowide);
+}
+.graphic-designing,
+.insignia24 {
+  top: 23.72%;
+}
+.graphic-designing {
+  top: 40.66%;
+}
+.being-a-part,
+.parkease-is-a {
+  display: inline-block;
+  width: 1189px;
+}
+.parkease-is-a {
+  position: absolute;
+  height: 4.46%;
+  top: 4.05%;
+  left: calc(50% - 594px);
+  letter-spacing: 0.07em;
+}
+.being-a-part {
+  top: 42.09%;
+}
+.being-a-part,
+.here-is-the,
+.this-project-is {
+  position: absolute;
+  left: calc(50% - 594px);
+  letter-spacing: 0.07em;
+}
+.this-project-is {
+  top: 25.07%;
+  display: inline-block;
+  width: 1189px;
+}
+.here-is-the {
+  top: 20.97%;
+}
+.p2-icon,
+.pe1-1-icon,
+.pe1-icon {
+  position: absolute;
+  height: 41.58%;
+  width: 11.82%;
+  top: 0.39%;
+  right: 88.18%;
+  bottom: 58.03%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.p2-icon,
+.pe1-icon {
+  height: 41.87%;
+  top: 11.97%;
+  right: 73.4%;
+  bottom: 46.16%;
+  left: 14.78%;
+}
+.pe1-icon {
+  height: 41.52%;
+  top: 58.13%;
+  bottom: 0.35%;
+}
+.p10-icon,
+.p14-1-icon,
+.p15-1-icon,
+.p16-1-icon,
+.p16-icon,
+.p17-icon,
+.p18-icon,
+.p3-icon,
+.p5-icon,
+.p6-icon,
+.p8-icon {
+  position: absolute;
+  height: 41.87%;
+  width: 11.82%;
+  top: 0.39%;
+  right: 58.75%;
+  bottom: 57.74%;
+  left: 29.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.p10-icon,
+.p14-1-icon,
+.p15-1-icon,
+.p16-1-icon,
+.p16-icon,
+.p17-icon,
+.p18-icon,
+.p3-icon,
+.p6-icon,
+.p8-icon {
+  top: 45.77%;
+  bottom: 12.36%;
+}
+.p10-icon,
+.p14-1-icon,
+.p15-1-icon,
+.p16-1-icon,
+.p16-icon,
+.p17-icon,
+.p18-icon,
+.p3-icon,
+.p8-icon {
+  top: 11.97%;
+  right: 44.09%;
+  bottom: 46.16%;
+  left: 44.09%;
+}
+.p10-icon,
+.p14-1-icon,
+.p15-1-icon,
+.p16-1-icon,
+.p17-icon,
+.p18-icon,
+.p3-icon,
+.p8-icon {
+  top: 58.13%;
+  bottom: 0;
+}
+.p10-icon,
+.p14-1-icon,
+.p15-1-icon,
+.p16-1-icon,
+.p17-icon,
+.p18-icon,
+.p3-icon {
+  top: 0;
+  right: 29.43%;
+  bottom: 58.13%;
+  left: 58.75%;
+}
+.p14-1-icon,
+.p15-1-icon,
+.p16-1-icon,
+.p17-icon,
+.p18-icon,
+.p3-icon {
+  top: 45.77%;
+  bottom: 12.36%;
+}
+.p14-1-icon,
+.p16-1-icon,
+.p17-icon,
+.p18-icon,
+.p3-icon {
+  top: 11.97%;
+  right: 15.13%;
+  bottom: 46.16%;
+  left: 73.05%;
+}
+.p14-1-icon,
+.p16-1-icon,
+.p18-icon,
+.p3-icon {
+  top: 58.13%;
+  bottom: 0;
+}
+.p16-1-icon,
+.p18-icon,
+.p3-icon {
+  top: 0;
+  right: 0.47%;
+  bottom: 58.13%;
+  left: 87.71%;
+}
+.p16-1-icon,
+.p3-icon {
+  top: 45.58%;
+  right: 88.18%;
+  bottom: 12.55%;
+  left: 0;
+}
+.p16-1-icon {
+  top: 45.77%;
+  right: 0;
+  bottom: 12.36%;
+  left: 88.18%;
+}
+.pe1-1-parent {
+  position: absolute;
+  height: 10.6%;
+  width: 61.93%;
+  top: 9.25%;
+  right: 19.03%;
+  bottom: 80.16%;
+  left: 19.03%;
+}
+.link {
+  position: absolute;
+  top: 1025px;
+  left: 560px;
+  letter-spacing: 0.07em;
+  color: #ffe81e;
+}
+.pc-home-1-1 {
+  position: absolute;
+  top: 1332px;
+  left: calc(50% - 445px);
+  width: 891px;
+  height: 519px;
+  object-fit: cover;
+}
+.line-68-stroke2,
+.line-68-stroke3,
+.line-68-stroke4 {
+  position: absolute;
+  top: 1119px;
+  left: calc(50% - 683px);
+  width: 1366px;
+  height: 4px;
+}
+.line-68-stroke3,
+.line-68-stroke4 {
+  top: 1933px;
+}
+.line-68-stroke4 {
+  top: 4237px;
+  left: calc(50% - 682px);
+}
+.screenshot-2024-02-23-221202-1,
+.screenshot-2024-02-23-221253-1,
+.screenshot-2024-02-23-221417-1 {
+  position: absolute;
+  top: 2137px;
+  left: calc(50% - 423px);
+  width: 847px;
+  height: 454px;
+  object-fit: cover;
+}
+.screenshot-2024-02-23-221202-1,
+.screenshot-2024-02-23-221417-1 {
+  top: 2652px;
+  height: 455px;
+}
+.screenshot-2024-02-23-221417-1 {
+  top: 3603px;
+  left: calc(50% - 418px);
+  width: 837px;
+  height: 556px;
+}
+.painting-poster-1 {
+  position: absolute;
+  top: 3197px;
+  left: 260px;
+  width: 262px;
+  height: 328px;
+  object-fit: cover;
+}
+.screenshot-2024-02-23-221604-1 {
+  position: absolute;
+  top: 3197px;
+  left: calc(50% - 117px);
+  width: 234px;
+  height: 330px;
+  object-fit: cover;
+}
+.screenshot-2024-02-23-221348-1 {
+  position: absolute;
+  top: 3197px;
+  left: 864px;
+  width: 238px;
+  height: 332px;
+  object-fit: cover;
+}
+.contact-me2 {
+  position: absolute;
+  top: 4361px;
+  left: calc(50% - 151px);
+  font-size: var(--font-size-29xl);
+  text-decoration: underline;
+  letter-spacing: 0.07em;
+  font-family: var(--font-audiowide);
+}
+.sirsiakashgmailcom2 {
+  top: 4491px;
+  left: 277px;
+  font-size: var(--font-size-13xl);
+}
+.akash-desai-72,
+.akash0o72,
+.designed-and-developed2,
+.div1,
+.sirsiakashgmailcom2 {
+  position: absolute;
+  letter-spacing: 0.07em;
+  font-family: var(--font-audiowide);
+}
+.designed-and-developed2 {
+  top: 4716px;
+  left: 394px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gray-200);
+}
+.akash-desai-72,
+.akash0o72,
+.div1 {
+  top: 4577px;
+  left: 277px;
+  font-size: var(--font-size-11xl);
+}
+.akash-desai-72,
+.akash0o72 {
+  top: 4492px;
+  left: 850px;
+  font-size: var(--font-size-13xl);
+}
+.akash0o72 {
+  top: 4573px;
+}
+.copyright-icon2,
+.email-icon2,
+.github-icon2,
+.instagram-icon2,
+.phone-icon2 {
+  position: absolute;
+  top: 4490px;
+  left: 785px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.copyright-icon2,
+.email-icon2,
+.github-icon2,
+.phone-icon2 {
+  top: 4568px;
+}
+.copyright-icon2,
+.email-icon2,
+.phone-icon2 {
+  top: 4488px;
+  left: 207px;
+}
+.copyright-icon2,
+.phone-icon2 {
+  top: 4568px;
+}
+.copyright-icon2 {
+  top: 4711px;
+  left: 322px;
+}
+.project {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  height: 4887px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
